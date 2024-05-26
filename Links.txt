@@ -1,0 +1,16 @@
+Google collab - python IDE
+https://colab.research.google.com/
+
+Python tutor link (learning site)
+https://pythontutor.com/visualize.html#mode=edit
+
+python more practicve
+
+https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/?ref=shm
+
+regex tool:
+
+https://regex101.com/
+
+HTML editor:
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor
